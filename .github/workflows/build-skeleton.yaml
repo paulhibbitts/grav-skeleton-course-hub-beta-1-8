@@ -12,7 +12,7 @@ on:
       version:
         description: 'Which Grav release to use'
         required: true
-        default: 1.7.47
+        default: 1.8.0-beta.1
       admin:
         description: 'Create also a package with Admin'
         required: false
